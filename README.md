@@ -1,1 +1,1 @@
-![ ](https://pixel-tracker-rust.fly.dev/)
+![ ](https://pixel-tracker-rust.fly.dev?cachebuster=1)
